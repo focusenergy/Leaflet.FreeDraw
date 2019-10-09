@@ -8,7 +8,8 @@
   "browser": "dist/leaflet-freedraw.web.js",
   "unpkg": "dist/leaflet-freedraw.iife.js",
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "scripts": {
     "build": "rollup -c",
